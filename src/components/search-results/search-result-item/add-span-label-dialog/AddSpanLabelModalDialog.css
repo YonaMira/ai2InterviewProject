@@ -1,0 +1,14 @@
+.input-bar {
+    margin-left: 5%;
+    margin-top: 20pt;
+    height: 50px;
+    width: 90%;
+    alignment: center;
+}
+
+.input {
+    padding-left: 20px;
+    padding-top: 10px;
+    align-content: center;
+    position: inherit;
+}

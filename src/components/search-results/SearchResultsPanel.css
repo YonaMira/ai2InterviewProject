@@ -1,0 +1,8 @@
+.search-results-panel {
+    margin-left: 20pt;
+    margin-top: 10pt;
+    width: 95%;
+    height: 500px;
+    border: 2px solid lightgrey;
+    border-radius: 25px;
+}

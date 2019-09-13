@@ -1,0 +1,38 @@
+.sentences-list {
+    overflow: auto;
+    position: inherit;
+    width: 96%;
+    height: 420px;
+}
+
+.user-msg {
+    position: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 14pt;
+    font-weight: lighter;
+    color: grey;
+}
+
+h1 {
+    margin-left: 10px;
+    position: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 16pt;
+    font-weight: lighter;
+    color: lightseagreen;
+}
+
+.error-msg {
+    position: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 14pt;
+    font-weight: lighter;
+    color: deeppink;
+}
+
+ul {
+    list-style: none;
+}

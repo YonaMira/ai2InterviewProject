@@ -1,0 +1,20 @@
+.sentence {
+    display: flex;
+    float: left;
+    overflow-x: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mark {
+    background-color: yellowgreen;
+}
+
+.regular {
+
+}
+
+.annotate {
+    background-color: aqua;
+}
+

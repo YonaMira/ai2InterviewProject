@@ -1,0 +1,44 @@
+.result-item-panel {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.annotation-button {
+    color: grey;
+    top: 20%;
+    margin-right: 5px;
+}
+
+svg:hover{
+    cursor: pointer;
+}
+
+.edit-button {
+    color: grey;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.icons-block {
+    display: flex;
+    float: left;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.result-item {
+    display: flex;
+    float: left;
+}
+
+.ready-to-send-icon {
+    -webkit-transform: rotate(-45deg);
+}
+
+.sending-icon {
+}
+
+.send-icon-button {
+     animation: move 3s;
+}
+
+

@@ -1,0 +1,8 @@
+.word {
+    float: left;
+    margin-left: 5px;
+    display: flex;
+    font-size: 16pt;
+    font-family: 'Times New Roman';
+    white-space: nowrap;
+}

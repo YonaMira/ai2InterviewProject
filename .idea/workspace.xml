@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41de6dc2-f270-46e8-9d14-c1c19c5c2285" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1QWOaVJz26vODJvHkxHYnGATZFi" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyProgramming\AI2InterviewProject\ai2-search-exercise-react\src\components\search-results\search-result-item\add-span-label-dialog" />
+      <recent name="C:\MyProgramming\AI2InterviewProject\ai2-search-exercise-react\src\components\search-results\search-result-item\sentence" />
+      <recent name="C:\MyProgramming\AI2InterviewProject\ai2-search-exercise-react\src" />
+      <recent name="C:\MyProgramming\AI2InterviewProject\ai2-search-exercise-react\src\components\search-results\search-result-item" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41de6dc2-f270-46e8-9d14-c1c19c5c2285" name="Default Changelist" comment="" />
+      <created>1567882948885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567882948885</updated>
+      <workItem from="1567882951090" duration="9450000" />
+      <workItem from="1567936253094" duration="11408000" />
+      <workItem from="1567969023639" duration="6024000" />
+      <workItem from="1568019187458" duration="20391000" />
+      <workItem from="1568063357925" duration="10324000" />
+      <workItem from="1568092940306" duration="4850000" />
+      <workItem from="1568142850708" duration="8945000" />
+      <workItem from="1568184064738" duration="25923000" />
+      <workItem from="1568270255928" duration="6196000" />
+      <workItem from="1568287757443" duration="14700000" />
+      <workItem from="1568303127816" duration="13113000" />
+      <workItem from="1568321497932" duration="4946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
